@@ -1,0 +1,103 @@
+
+.smartphone-area{
+    background-image: url(image/bg-1.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+.nav-logo{
+    margin-right: 40%;
+}
+.laptop-area{
+    margin-top: 100px;
+}
+.smartphone-area{
+    margin-top: 50px;
+}
+
+.head-div1{
+    margin-top: 100px;
+}
+.right-align{
+    text-align: right;
+}
+.right-align h3 a{
+    color: orange;
+
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.price-buy-btn{
+    margin-left: 40%;
+    margin-bottom: 10px;
+}
+.price-buy-btn h6{
+    margin-left: 26px;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgrey;
+    border: none;
+    border-radius: 15px;
+}
+.card img{
+    padding: 50px;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+    color: gray;
+}
+.last-contnr{
+    margin-top: 100px;
+}
+.last-container{
+    margin-top: 70px;
+}
+.last-container h1{
+    text-align: center;
+}
+.underline{
+    width: 130px;
+    border: 3px solid orange;
+    margin-left: 480px;
+}
+.pale-img{
+    width: 100%;
+}
+
+}
+.bag-shoe-beauty{
+    display: flex;
+    
+    position: relative;
+}
+.cat-img img{
+    width: 100%;
+}
+.bag-img{
+    background-color: white ;
+    box-shadow: 10px 10px 10px lightgray;
+    border-radius: 10px;
+}
+.beauty-img{
+    position: absolute;
+    top: 20px;
+    left: 165px;
+    box-shadow: 10px 10px 10px lightgray;
+    border-radius: 10px;
+}
+.shoe-img{
+    position: relative;
+    top: 80px;
+    left: 15px;
+    box-shadow: 10px 10px 10px lightgray;
+    border-radius: 10px;
+}
+h4{
+    text-align: center;
+    font-size: 16px;
+}
